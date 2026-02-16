@@ -26,3 +26,6 @@ You can also open `index.html` directly in a browser. Some features may work bet
 - **`fieldStrength`** — how strongly particles follow the field.
 - **Particle count** — change `280` in the `for` loop in `setup()`.
 - **Colors** — `hue` is in HSB; adjust the `random(220, 280)` range.
+
+## demo
+<img width="1289" height="702" alt="image" src="https://github.com/user-attachments/assets/63a48e20-96b3-46d9-9710-39e9cee70938" />
